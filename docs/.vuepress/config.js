@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Hello VuePress',
   description: 'Just playing around',
-  base: '/Private-Doc/',
+  base: '/Private-Doc/docs/.vuepress/dist/',
   themeConfig: {
     sidebarDepth: 2,
     nav: [{
