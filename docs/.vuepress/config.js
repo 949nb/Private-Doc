@@ -2,6 +2,7 @@ module.exports = {
   title: 'Hello VuePress',
   description: 'Just playing around',
   base: '/Private-Doc/',
+  port: 9999,
   themeConfig: {
     sidebarDepth: 2,
     nav: [{

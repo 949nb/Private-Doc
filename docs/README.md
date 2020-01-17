@@ -1,9 +1,9 @@
 ---
 home: true
 heroImage: null
-heroText: Hero 标题
-tagline: Hero 副标题
-actionText: 快速上手 →
+heroText: 文档
+tagline: null
+actionText: 进入文档 🧘🏻 →
 actionLink: /zh/guide/
 features:
 - title: 简洁至上
